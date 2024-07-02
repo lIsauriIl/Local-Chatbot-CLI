@@ -13,7 +13,7 @@ After that, run this command:
 # Usage
 There's nothing much you need to do other than to run the file. However, if you want to install a model from Ollama, you have to browse the Ollama documentation to see which model you want to install. From there, there are 2 options: either install the model yourself via the command:
 
-```ollama pull [model_name]``
+```ollama pull [model_name]```
 
 Or attempt to run chatbot using the model that you haven't installed yet. If that happens, you will get as far as being able to ask a question. However, instead of giving an answer, the interface will ask you if you want to download the model, since it doesn't exist yet.
 
